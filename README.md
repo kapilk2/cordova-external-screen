@@ -17,7 +17,7 @@ Pull requests are very welcome! Please use the [gitmoji](https://gitmoji.carlosc
 ## Installation
 
 ```bash
-git clone https://github.com/Festify/cordova-external-screen
+git clone https://github.com/kapilk2/cordova-external-screen
 cd ./MyCordovaProject
 cordova plugin add ../cordova-external-screen
 ```
